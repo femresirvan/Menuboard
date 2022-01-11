@@ -1,0 +1,21 @@
+[
+    {
+        "priceInfo":"10$",
+        "name":"Tomato Soup",
+        "imageUrl":"https://www.jocooks.com/wp-content/uploads/2016/01/roasted-tomato-soup-1-1.jpg",
+        "category":"Starters"
+    },
+    {
+        "priceInfo":"10$",
+        "name":"Chicken Soup",
+        "imageUrl":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F19%252F2019%252F02%252F26%252Flemony-greek-chicken-soup-1811-p16-2000.jpg&q=85",
+        "category":"Starters"
+    },    {
+        "priceInfo":"10$",
+        "name":"Crispy Soup",
+        "imageUrl":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F23%252F2020%252F12%252F11%252Fcrispy-tofu-noodle-soup-recipe-0121din.jpg&q=85",
+        "category":"Starters"
+    }
+]
+
+
