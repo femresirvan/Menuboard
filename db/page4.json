@@ -1,18 +1,8 @@
 [
     {
-        "priceInfo":"5$",
-        "name":"Fruit and Cream",
-        "imageUrl":"https://aromaticessence.co/wp-content/uploads/2021/05/fruit_cream_featured.jpeg",
-        "category":"Desserts"
-    },    {
         "priceInfo":"6$",
-        "name":"Ice Cream",
-        "imageUrl":"http://upload.turkcewiki.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/1200px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg",
-        "category":"Desserts"
-    },{
-        "priceInfo":"8$",
-        "name":"Chocolate Cake",
-        "imageUrl":"https://food-images.files.bbci.co.uk/food/recipes/easy_chocolate_cake_31070_16x9.jpg",
-        "category":"Desserts"
+        "name":"Wines",
+        "imageUrl":"https://static01.nyt.com/images/2021/12/12/dining/12pour14/12pour14-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "category":"Drinks"
     }
 ]

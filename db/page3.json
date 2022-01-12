@@ -1,18 +1,33 @@
 [
     {
-        "priceInfo":"15$",
-        "name":"Chicken and Rice",
-        "imageUrl":"https://www.simplyrecipes.com/thmb/A0clzs4DNOB_XvCRVHDoEWSeBio=/2000x1333/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__06__Chicken-Rice-Casserole-LEAD-2-01230ff397ac4b35958e8ffe9857fca6.jpg",
-        "category":"Main Courses"
+        "priceInfo":"7$",
+        "name":"Strawberry Cake",
+        "imageUrl":"https://omnivorescookbook.com/wp-content/uploads/2021/08/210715_Japanese-Strawberry-Cake_3.jpg",
+        "category":"Desserts"
+    },{
+        "priceInfo":"4$",
+        "name":"Apple Pie",
+        "imageUrl":"https://natashaskitchen.com/wp-content/uploads/2019/10/Apple-Pie-2-728x1092.jpg",
+        "category":"Desserts"
+    },{
+        "priceInfo":"2$",
+        "name":"Mineral Water",
+        "imageUrl":"https://hips.hearstapps.com/ame-prod-goodhousekeeping-assets.s3.amazonaws.com/main/embedded/25836/glass_water.jpg",
+        "category":"Drinks"
     },    {
-        "priceInfo":"25$",
-        "name":"Turkey and Ham Pie",
-        "imageUrl":"https://assets-eu-01.kc-usercontent.com/559bb7d3-88a4-01c1-79a3-dd4d5b2d2bb0/8e6739ea-04df-4061-b891-752fc8b5c939/1-Turkey-and-ham-pie-WEB.jpg",
-        "category":"Main Courses"
-    },    {
-        "priceInfo":"10$",
-        "name":"Vegetable Pasta",
-        "imageUrl":"https://www.wholesomelicious.com/wp-content/uploads/2021/02/Vegetable-Garden-Pasta-Picture4-500x375.jpg",
-        "category":"Main Courses"
+        "priceInfo":"3$",
+        "name":"Fresh Fruit Juice",
+        "imageUrl":"https://us.123rf.com/450wm/photomaru/photomaru1212/photomaru121200001/16655423-fresh-citrus-juices-isolated-on-white.jpg?ver=6",
+        "category":"Drinks"
+    },{
+        "priceInfo":"5$",
+        "name":"Coffee",
+        "imageUrl":"https://media-cdn.tripadvisor.com/media/photo-s/1a/8f/93/47/egg-coffe-ice-cream.jpg",
+        "category":"Drinks"
+    },{
+        "priceInfo":"3$",
+        "name":"Tea",
+        "imageUrl":"https://media.istockphoto.com/photos/delicious-hot-green-tea-on-white-picture-id623207758?k=20&m=623207758&s=170667a&w=0&h=mw2QHnMzT_XLkc_h8ok5pP4e1T8bmQ2yQalZhBzX9Es=",
+        "category":"Drinks"
     }
 ]

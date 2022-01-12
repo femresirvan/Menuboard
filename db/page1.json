@@ -15,6 +15,21 @@
         "name":"Crispy Soup",
         "imageUrl":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimagesvc.meredithcorp.io%2Fv3%2Fmm%2Fimage%3Furl%3Dhttps%253A%252F%252Fstatic.onecms.io%252Fwp-content%252Fuploads%252Fsites%252F23%252F2020%252F12%252F11%252Fcrispy-tofu-noodle-soup-recipe-0121din.jpg&q=85",
         "category":"Starters"
+    },    {
+        "priceInfo":"7$",
+        "name":"Guacamole Salad",
+        "imageUrl":"https://www.veggiessavetheday.com/wp-content/uploads/2021/07/California-Guacamole-Salad-meal-1200x1800-1.jpg",
+        "category":"Salads"
+    },    {
+        "priceInfo":"9$",
+        "name":"Chicken Salad",
+        "imageUrl":"https://healthyfitnessmeals.com/wp-content/uploads/2021/04/Southwest-chicken-salad-7-868x1024.jpg",
+        "category":"Salads"
+    },    {
+        "priceInfo":"20$",
+        "name":"Grilled Fish and Potatoes",
+        "imageUrl":"https://media.istockphoto.com/photos/whole-grilled-fish-served-with-potatoes-lemon-and-sauce-picture-id177840950",
+        "category":"Main Courses"
     }
 ]
 
