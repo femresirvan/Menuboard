@@ -1,0 +1,18 @@
+[
+    {
+        "priceInfo":"7$",
+        "name":"Strawberry Cake",
+        "imageUrl":"https://omnivorescookbook.com/wp-content/uploads/2021/08/210715_Japanese-Strawberry-Cake_3.jpg",
+        "category":"Desserts"
+    },{
+        "priceInfo":"4$",
+        "name":"Apple Pie",
+        "imageUrl":"https://natashaskitchen.com/wp-content/uploads/2019/10/Apple-Pie-2-728x1092.jpg",
+        "category":"Desserts"
+    },{
+        "priceInfo":"2$",
+        "name":"Mineral Water",
+        "imageUrl":"https://hips.hearstapps.com/ame-prod-goodhousekeeping-assets.s3.amazonaws.com/main/embedded/25836/glass_water.jpg",
+        "category":"Drinks"
+    }
+]

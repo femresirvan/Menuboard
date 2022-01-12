@@ -1,0 +1,18 @@
+[
+    {
+        "priceInfo":"3$",
+        "name":"Fresh Fruit Juice",
+        "imageUrl":"https://us.123rf.com/450wm/photomaru/photomaru1212/photomaru121200001/16655423-fresh-citrus-juices-isolated-on-white.jpg?ver=6",
+        "category":"Drinks"
+    },{
+        "priceInfo":"5$",
+        "name":"Coffee",
+        "imageUrl":"https://media-cdn.tripadvisor.com/media/photo-s/1a/8f/93/47/egg-coffe-ice-cream.jpg",
+        "category":"Drinks"
+    },{
+        "priceInfo":"3$",
+        "name":"Tea",
+        "imageUrl":"https://media.istockphoto.com/photos/delicious-hot-green-tea-on-white-picture-id623207758?k=20&m=623207758&s=170667a&w=0&h=mw2QHnMzT_XLkc_h8ok5pP4e1T8bmQ2yQalZhBzX9Es=",
+        "category":"Drinks"
+    }
+]

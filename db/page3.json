@@ -1,0 +1,18 @@
+[
+    {
+        "priceInfo":"15$",
+        "name":"Chicken and Rice",
+        "imageUrl":"https://www.simplyrecipes.com/thmb/A0clzs4DNOB_XvCRVHDoEWSeBio=/2000x1333/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2014__06__Chicken-Rice-Casserole-LEAD-2-01230ff397ac4b35958e8ffe9857fca6.jpg",
+        "category":"Main Courses"
+    },    {
+        "priceInfo":"25$",
+        "name":"Turkey and Ham Pie",
+        "imageUrl":"https://assets-eu-01.kc-usercontent.com/559bb7d3-88a4-01c1-79a3-dd4d5b2d2bb0/8e6739ea-04df-4061-b891-752fc8b5c939/1-Turkey-and-ham-pie-WEB.jpg",
+        "category":"Main Courses"
+    },    {
+        "priceInfo":"10$",
+        "name":"Vegetable Pasta",
+        "imageUrl":"https://www.wholesomelicious.com/wp-content/uploads/2021/02/Vegetable-Garden-Pasta-Picture4-500x375.jpg",
+        "category":"Main Courses"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "priceInfo":"7$",
+        "name":"Guacamole Salad",
+        "imageUrl":"https://www.veggiessavetheday.com/wp-content/uploads/2021/07/California-Guacamole-Salad-meal-1200x1800-1.jpg",
+        "category":"Salads"
+    },    {
+        "priceInfo":"9$",
+        "name":"Chicken Salad",
+        "imageUrl":"https://healthyfitnessmeals.com/wp-content/uploads/2021/04/Southwest-chicken-salad-7-868x1024.jpg",
+        "category":"Salads"
+    },    {
+        "priceInfo":"20$",
+        "name":"Grilled Fish and Potatoes",
+        "imageUrl":"https://media.istockphoto.com/photos/whole-grilled-fish-served-with-potatoes-lemon-and-sauce-picture-id177840950",
+        "category":"Main Courses"
+    }
+]

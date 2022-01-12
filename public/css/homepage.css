@@ -1,0 +1,28 @@
+.main-wrapper{
+    position: relative;
+}
+
+.content-wrapper{
+    display: inline-block;
+    position: relative;
+    height: 10rem;
+    width: 95vw;
+    left: 2vw;
+    border: 1px solid red;
+}
+
+.text-wrapper{
+    display: inline-block;
+    height: 100%;
+    position: absolute;
+    left: 0px;
+    border: 1px solid black;
+}
+
+.img-wrapper{
+    display: inline-block;
+    
+    position: absolute;
+    right:0px;
+    border: 1px solid black;
+}
