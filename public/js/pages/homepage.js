@@ -1,3 +1,5 @@
+if(counter==1) oldPage.disabled = true;
+
 fetch(`../../../db/page${counter}.json`)
     .then(response => json = response.json())
     .then(data => {
@@ -8,7 +10,7 @@ fetch(`../../../db/page${counter}.json`)
     });
 
 nextPage.addEventListener('click', ()=>{
-
+    oldPage.disabled = false;
     fetch(`../../../db/page${++counter}.json`)
     .then(response => json = response.json())
     .then(data => {
@@ -21,14 +23,16 @@ nextPage.addEventListener('click', ()=>{
 })
 
 oldPage.addEventListener('click', ()=>{
-    if(counter==1) return alert('There is no old page!')
+    if(counter==1) return oldPage.disabled = true;
     fetch(`../../../db/page${--counter}.json`)
     .then(response => json = response.json())
     .then(data => {
+        oldPage.disabled = false;
         let page = new Page(data);
         console.table(page.contents);
         page.deleteContents();   
-        page.renderContents(); 
+        page.renderContents();
+        if(counter==1) return oldPage.disabled = true; 
     });
 
 })
