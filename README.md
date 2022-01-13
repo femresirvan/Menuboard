@@ -23,8 +23,8 @@ $ cd Menuboard
 ## Features
 **!** There are 2 versions of menus. They are seperated by branches. Main branch contains non-interactive interface. The other(interactive) branch containts interactive interface which is includes components such as button to interact with users.
 
--Menu pages comes from an API folder. I use Fetch API so that you can easily integrate your own API.
--Menu pages changes with 8 seconds loops.
+- Menu pages comes from an API folder. I use Fetch API so that you can easily integrate your own API.
+- Menu pages changes with 8 seconds loops.
 
 ### Project Structure
 
@@ -38,4 +38,3 @@ $ cd Menuboard
 - [x] Build outline.
 - [x] Get data and show in interface via pure JS technologies like DOM and Fetch API.
 - [x] Style the interface.
-
