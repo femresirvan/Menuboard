@@ -5,7 +5,7 @@
 A simple menuboard that shows you all contents of menu's.
 ### 👀 Review
 
-![]()
+https://user-images.githubusercontent.com/60824063/149394018-b23b39b3-bd39-4dfa-a319-4b9ca2084544.mp4
 
 ## Prerequisite
 
@@ -28,7 +28,8 @@ $ cd Menuboard
 
 ### Project Structure
 
-![]()
+![4714505](https://user-images.githubusercontent.com/60824063/149391082-ed1061c4-4e9d-4bdb-ba42-39725f29d254.jpg)
+
 ### Roadmap
 
 <!-- EDIT HERE -->
