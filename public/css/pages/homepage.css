@@ -1,8 +1,11 @@
+
 .main-wrapper{
     position: relative;
     display: flex;
+    height: 95vh;
+    flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-evenly;
     overflow: hidden;
 }
 
@@ -12,13 +15,28 @@
     font-size: 4rem;
     margin: 0.5rem 0.5rem 0.5rem 0.5rem;
     color: hsl(27, 91%, 41%);
+    height: 30px;
+}
+
+.col1{
+    animation: gliding1;
+    animation-fill-mode: forwards;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    left: -1000px;
+}
+
+.col2{
+    animation: gliding2;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+    left: 1000px;
 }
 
 .content-wrapper1{
-    animation: gliding1;
-    animation-duration: 1s;
     /* padding: 0.5rem 0.5rem 0.5rem 0.5rem; */
-    margin: 0.6rem 0.6rem 0.6rem 0.6rem;
+    margin: -1rem -1rem -1rem -1rem;
     display: inline-flex;
     position: relative;
     height: 10rem;
@@ -29,14 +47,11 @@
     box-shadow: 5px 5px 11px 3px rgba(207,207,207,0.14);
     flex-direction: row;
     justify-content: space-between;
-    animation-timing-function: ease-out;
 }
 
 .content-wrapper2{
-    animation: gliding2;
-    animation-duration: 1s;
     /* padding: 0.5rem 0.5rem 0.5rem 0.5rem; */
-    margin: 0.6rem 0.6rem 0.6rem 0.6rem;
+    margin: -1rem -1rem -1rem -1rem;
     display: inline-flex;
     position: relative;
     height: 10rem;
@@ -47,7 +62,6 @@
     box-shadow: 5px 5px 11px 3px rgba(207,207,207,0.14);
     flex-direction: row;
     justify-content: space-between;
-    animation-timing-function: ease-out;
 }
 
 @keyframes gliding1 {
@@ -67,9 +81,17 @@
     100%{left:0px;}
 }
 
+.content-wrapper1::after{
+    left: -1000px;
+}
+
+.content-wrapper2::after{
+    left: 1000px;
+}
+
 .text-wrapper{
     display: flex;
- 
+    margin-left: 5px;
     /* position: absolute; */
     align-self: center;
     /* border: 1px solid black; */
@@ -97,11 +119,14 @@
 }
 
 .buttons-wrapper{
+    position: absolute;
+    align-self: flex-end;
     width: 95vw;
     margin: auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    
 }
 
 .buttons-wrapper button{
@@ -113,6 +138,8 @@
     padding: 10px 20px 10px 20px;
     box-shadow: 5px 5px 11px 3px rgba(207,207,207,0.14);
     border: 0px;
+    margin-right: 70px;
+    margin-left: 70px;
 }
   
 .buttons-wrapper button:hover {
